@@ -1,4 +1,4 @@
-# ZTF Summer School 2022 Assignment
+# ZTF Summer School 2022 Application Assignment
 
 ## The Assignment
 
