@@ -19,13 +19,13 @@ We split the data into LMC and SMC, and then again by mode F and 1 (for you) bel
 
 
 <p align="center">
-  <img width="600" src="plots\W_vs_logP1.png">
+  <img width="600" src="plots\W_vs_logP1.jpg">
 </p>
 
 ## Part 2: Fit or estimate straight lines to each of the four samples
 
 <p align="center">
-  <img width="600" src="plots\W_vs_logP1_line.png">
+  <img width="600" src="plots\W_vs_logP1_line.jpg">
 </p>
 
 ## Part 3: Compute the residuals of each sample to its respective line.
@@ -38,12 +38,12 @@ We split the data into LMC and SMC, and then again by mode F and 1 (for you) bel
  <tr>
     <td>
       <p align="center">
-        <img width="400" src="plots\Residual_.png">
+        <img width="400" src="plots\Residual_.jpg">
       </p>
     </td>
     <td>
       <p align="center">
-        <img width="400" src="plots\Residual_Absolute.png">
+        <img width="400" src="plots\Residual_Absolute.jpg">
       </p>
     </td>
  </tr>
@@ -53,7 +53,7 @@ We split the data into LMC and SMC, and then again by mode F and 1 (for you) bel
  <tr>
  <td>      
         <p align="center">
-        <img width="400" src="plots\Residual_Square.png">
+        <img width="400" src="plots\Residual_Square.jpg">
         </p>
  </td>
  </tr>
@@ -70,12 +70,12 @@ We split the data into LMC and SMC, and then again by mode F and 1 (for you) bel
  <tr>
     <td>
       <p align="center">
-        <img width="400" src="plots\Residual_color_.png">
+        <img width="400" src="plots\Residual_color_.jpg">
       </p>
     </td>
     <td>
       <p align="center">
-        <img width="400" src="plots\Residual_color_Absolute.png">
+        <img width="400" src="plots\Residual_color_Absolute.jpg">
       </p>
     </td>
  </tr>
@@ -85,7 +85,7 @@ We split the data into LMC and SMC, and then again by mode F and 1 (for you) bel
  <tr>
  <td>      
         <p align="center">
-        <img width="400" src="plots\Residual_color_Square.png">
+        <img width="400" src="plots\Residual_color_Square.jpg">
         </p>
  </td>
  </tr>
